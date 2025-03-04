@@ -1,1 +1,1 @@
-# Machine Learning / Deep Learning Projects
+Covering the concepts of machine learning, deep learning, natural language processing and large language models.
